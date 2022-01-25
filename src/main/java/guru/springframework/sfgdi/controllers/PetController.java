@@ -4,7 +4,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Controller;
 
-import guru.springframework.sfgdi.services.PetService;
+import com.springframework.pets.PetService;
 
 /**
  * Created by jt on 12/28/19.
